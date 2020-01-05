@@ -6,5 +6,13 @@ EXTS:
 	EXT .java DES Java Source Files
 	EXT .class DES Java Compiled Class Files
 	EXT .exe DES Windows Executable
+	EXT .sh DES Linux Shell Script
+	EXT .py DES Python Source file
+	EXT .md DES Markdown Script
+	EXT .xml DES Extensible Markup Language Script
+	EXT .cpp DES C++ Source Files
+	EXT .c DES C Source Files
+	EXT .o DES Object Files
+	EXT {.h,.hpp} DES C/C++ Header Files
 	EXT {.bat,.cmd} DES Windows Command Processor
 END EXTS
